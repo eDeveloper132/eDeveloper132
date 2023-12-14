@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @eDeveloper132
+- 👀 I’m interested in Html , css , javascript , complete web2.0 , laravel , PHP programming , and latest web3.0 , metaverse , ARTIFICIAL INTELLIGENCE...
+- 🌱 I’m currently learning Diploma at Aptech Pakistan branch(iic) , Saylani SMIT branch IT campus bahaduarabad Karachi Pakistan and Governor Sindh House IT Marquee...
+- 📫 you are possible to reach me to contact on Facebook id name: Muhammad Ilyas(eDeveloper132) , mail me on this email address: 1375219.aptechiic@gmail.com...
+
+<!---
+eDeveloper132/eDeveloper132 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
